@@ -1,0 +1,86 @@
+.jumbotron{
+    padding: 3rem 1rem;
+    background-color: #212529;
+    height: 700px;
+    background-image: url(./img/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg);
+    background-size: cover;
+}
+.jumbotron1{
+    background-image: url(./img/2.jpg);
+    /* color: aliceblue; */
+    height: 700px;
+}
+.btn{
+    text-transform: uppercase;
+    border-radius: 40px;
+    font-size: 18px;
+}
+.navbar-brand{
+    font-family: 'Abril Fatface', cursive;
+    
+}
+.navbar-nav{
+    font-family: 'Teko', sans-serif;
+    font-size: 18px
+}
+h1{
+    color: aliceblue;
+    margin-top: -40px;
+    margin-bottom: 2rem;
+    font-family: 'Abril Fatface', cursive;
+}
+.lead{
+    margin-top: 6rem;
+    color:aliceblue ;
+    font-family: 'Poppins', sans-serif;
+}
+.lead1{
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+}
+.hayo{
+    font-family: 'Abril Fatface', cursive;
+
+}
+h2{
+   color: aliceblue;
+   margin-bottom: 2rem;
+   margin-top: -2rem;
+   font-family: 'Abril Fatface', cursive;
+}
+h3{
+   color: aliceblue;
+   margin-bottom: 2rem;
+   size: 12rem;
+   font-family: 'Abril Fatface', cursive;
+}
+.tombol{
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+
+.about{
+    margin-top: 6rem;
+    color: aliceblue;
+}
+.logo{
+    margin-top: 3rem;
+}
+.cek{
+    margin-top: 1rem;
+}
+.nama{
+    margin-bottom: 9rem;
+}
+
+
+
+
+/* dekstop */
+@media (min-width: 992px) {
+    .nav-link{
+        text-transform: uppercase;
+        margin-right: 30px;
+
+    }
+}
